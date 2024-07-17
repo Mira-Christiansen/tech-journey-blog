@@ -1,10 +1,12 @@
 ---
-title: "Navigating the Cosmos with Misspelled Words: A Starship Captain's Frustration"
-date: '2023-07-20'
+title: "Navigating the Cosmos, A Guide to The Galaxy"
+date: '2020-03-21'
 ---
 
-*Captain's Log, Stardate 45192.3*
+*Tatooine*
 
-As the captain of the USS Odyssey, my interstellar journeys have been awe-inspiring. But behind my leadership lies an unexpected struggle – spelling. Despite efforts to overcome it, my misspellings have caused comical and critical situations alike. Yet, my loyal crew's support and understanding have taught me that embracing imperfections and focusing on strengths matter most in the vast expanse of space.
+Tatooine is a desert planet. Located on the Galaxy's outer rim, it has two suns and three moons. It is not governed by any large government, and is mostly inhabited by bandits and racers. Being a desert planet, it has unique job opportunities such as being a moisture farmer, a job under which Owen Lars and his nephew Luke Skywalker were employed at some point
 
-*Captain Amelia Zephyr, USS Odyssey*
+*Hoth*
+
+Hoth is a tundra planet, and not the only one of its name. It is sparsely inhabited, but served as a base for the rebellion in the days of Darth Vader. It has unique and sometimes hostile wildlife, as is typical of most planets. There are not many naturally occuring resources, but it proved its worth.

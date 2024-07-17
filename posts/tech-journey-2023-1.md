@@ -1,10 +1,9 @@
 ---
-title: 'Tech Journey 2023 - Log 1'
-date: '2023-07-20'
+title: 'Effects?'
+date: '2020-05-21'
 ---
 
-Captain's Log.
+What technology was used for the characters?
+In the movie itself technology such as holograms, radios, spaceships and very advanced droids can be seen. In the production of the movies there was actually much less CGI than one might think, and it used other tactics such as puppeteering, costuming, models, and lighting tricks.
 
-These kids are so ungrateful. I don't know how much longer I can stand it.
-
-![snorlax](/images/avatar.jpg)
+![snorlax](/images/flatten.jpeg)

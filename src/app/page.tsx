@@ -10,8 +10,8 @@ type AllPostsData = {
   id: string
 }[]
 
-// Change this url to change the image!
-const imageUrl = '/images/snorlax.jpg';
+
+const imageUrl = '/images/download.png';
 
 export default function Home() {
   const allPostsData: AllPostsData = getSortedPostsData()
@@ -20,12 +20,12 @@ export default function Home() {
       <div>
         <section>
           <p className={'prose'}>
-            Hey I&apos;m Luke. This is my site.
+            This is an ever-growing star wars encyclopedia, that we devote to answering any questions people submit!
           </p>
           <div className={'my-4'}>
             <i>
-              Check out the repo{' '}
-                <Link href={'https://github.com/ludu12/tech-journey-blog'}>
+              Check out the wiki!{' '}
+                <Link href={'https://starwars.fandom.com/wiki/Main_Page'}>
                   <button className={'btn btn-primary'}>
                       <span className={'text-primary-content'}>
                         here
